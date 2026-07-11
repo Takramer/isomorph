@@ -1,0 +1,6 @@
+{
+  "name": "isomorph",
+  "version": "0.1.0",
+  "description": "Prove two codebases do the same thing — or hand you the input where they don't. Differential equivalence checking driven by adversarial model reasoning.",
+  "author": { "name": "Thomas Kramer" }
+}

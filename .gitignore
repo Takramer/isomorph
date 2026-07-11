@@ -1,0 +1,7 @@
+isomorph-report/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+secrets.json
