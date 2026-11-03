@@ -96,4 +96,4 @@ with executable repros you can verify yourself.
 
 ## License
 
-Private, all rights reserved (for now — licensing decided at launch gate).
+MIT. See [LICENSE](LICENSE).
